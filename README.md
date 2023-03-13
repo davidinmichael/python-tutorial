@@ -13,8 +13,7 @@ You are allowed to attempt the exercises, push them, and then create a pull requ
 
 ## Topics Covered
 This tutorial covers the following topics:
-Variables
-Data Types
+[Variables Data Types](01-datatypes&variables.py)
 Control Flow
 Functions
 Modules
