@@ -13,7 +13,10 @@ You are allowed to attempt the exercises, push them, and then create a pull requ
 
 ## Topics Covered
 This tutorial covers the following topics:
+[Introduction](00-introduction.md)
 [Variables Data Types](01-datatypes&variables.py)
+[Operators](02-operators.py)
+[UserInputs, Printing to Screen and Comments](03-userinputs&outputs.py)
 Control Flow
 Functions
 Modules
