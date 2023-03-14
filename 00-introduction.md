@@ -8,3 +8,5 @@ Python is also an interpreted language, which means that you don't need to compi
 Python is an open-source language, which means that anyone can contribute to its development and improvement. There's a large and active community of Python developers who share their knowledge and expertise through online forums, tutorials, and documentation.
 
 If you're new to programming, Python is a great language to start with. Its ease of use, versatility, and popularity make it a valuable skill to have in a variety of industries and fields. In the next lessons, we'll cover the basics of Python programming, starting with variables and data types.
+
+So, let's get started, see you in the next lesson.
