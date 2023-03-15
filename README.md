@@ -32,5 +32,6 @@ I recommend that you start by reading the introduction and getting familiar with
 
 ## Contributing
 Contributions to this tutorial are welcome! If you find an error or have a suggestion for improvement, please submit a pull request.
+You can also contact me via email @ davidinmichael@gmail.com
 
 Whether you're a student, a hobbyist, or someone looking to start a career in programming, this tutorial is a great way to get started with Python. Join us and let's learn Python together!
