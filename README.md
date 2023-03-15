@@ -13,15 +13,17 @@ You are allowed to attempt the exercises, push them, and then create a pull requ
 
 ## Topics Covered
 This tutorial covers the following topics:
-[Introduction](00-introduction.md)
-[Variables Data Types](01-datatypes&variables.py)
-[Operators](02-operators.py)
-[UserInputs, Printing to Screen and Comments](03-userinputs&outputs.py)
-Control Flow
-Functions
-Modules
-And More!
-Each topic includes practical examples and exercises to help you apply what you learn, as well as quizzes and solutions to test your knowledge.
+-[Introduction](00-introduction.md)
+-[Variables Data Types](01-datatypes&variables.py)
+-[Operators](02-operators.py)
+-[UserInputs, Printing to Screen and Comments](03-userinputs&outputs.py)
+-[Conditional Statements](04-conditional-statements.py)
+-[Modules](05-modules.py)
+-[Loops](06-loops.py)
+-Functions
+-Modules
+-And More!
+-Each topic includes practical examples and exercises to help you apply what you learn, as well as quizzes and solutions to test your knowledge.
 
 ## How to Use This Tutorial
 This tutorial is designed to be used sequentially, with each section building upon the previous one. However, feel free to skip around or jump to specific topics as needed.
