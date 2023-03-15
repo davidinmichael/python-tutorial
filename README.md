@@ -28,7 +28,7 @@ This tutorial covers the following topics:
 ## How to Use This Tutorial
 This tutorial is designed to be used sequentially, with each section building upon the previous one. However, feel free to skip around or jump to specific topics as needed.
 
-I recommend that you start by reading the introduction and getting familiar with Python syntax. Then, work through each section in order, completing the exercises and quizzes as you go.
+I recommend that you start by reading the introduction and getting familiar with Python syntax. Then, work through each section in order, completing the exercises and quizzes as you go. Always feel free to submit your tasks by creating a pull request, and it will be reviewed and also you get a feedback.
 
 ## Contributing
 Contributions to this tutorial are welcome! If you find an error or have a suggestion for improvement, please submit a pull request.
