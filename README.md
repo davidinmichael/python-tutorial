@@ -2,10 +2,10 @@
 Welcome to the Python Tutorial for Beginners! This repository contains a step-by-step tutorial for learning Python programming from scratch. It's designed for beginners who have little or no programming experience, and it covers all the basic concepts of Python programming, such as variables, data types, control flow, functions, modules, and more.
 
 ## Table of Contents
-Getting Started
-Topics Covered
-How to Use This Tutorial
-Contributing
+- Getting Started
+- Topics Covered
+- How to Use This Tutorial
+- Contributing
 
 ## Getting Started
 To get started with this tutorial, simply fork, clone or download this repository to your local machine. Then, open up the tutorial in your preferred text editor or IDE and follow along with the instructions.
