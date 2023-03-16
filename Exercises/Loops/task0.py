@@ -15,5 +15,6 @@ num = []
 rng = acceptval("Range")
 for i in range(rng):
     num.append(acceptval("Number"))
-print("{} is {}".format
+for n in num:
+    print("{} is {}".format(n, ("Even" if n % 2 == 0 else "Odd")))
 
