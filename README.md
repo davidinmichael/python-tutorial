@@ -20,6 +20,7 @@ This tutorial covers the following topics:
 - [Conditional Statements](04-conditional-statements.py)
 - [Modules](05-modules.py)
 - [Loops](06-loops.py)
+- [Lists](07-lists.py)
 - Functions
 - Modules
 - And More!
