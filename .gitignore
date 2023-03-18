@@ -1,4 +1,5 @@
 *.swp                                                                                                                                                                   *.exe
 *.exe
 *.out
-idea/*
+.idea/*
+__pycache__
