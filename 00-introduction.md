@@ -1,4 +1,5 @@
 # Introduction
+
 Python is a high-level, interpreted programming language that's known for its simplicity, readability, and versatility. It was first released in 1991 by Guido van Rossum, and has since become one of the most popular programming languages in the world. Python is widely used for a variety of applications, including web development, data analysis, machine learning, and scientific computing.
 
 One of the key features of Python is its syntax, which is designed to be easy to read and write. Python code is typically more concise and readable than code in other programming languages, which makes it a great choice for beginners who are just getting started with programming.

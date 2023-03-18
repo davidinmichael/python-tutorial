@@ -19,6 +19,31 @@
 
 # Sample Output 
 # 26.75
-menu = {"Nachos": 6, "Pizza": 6, "Cheeseburger": 10, "Water": 4, "Coke": 5}
+menu = {"Nachos": 6, "Pizza": 6, "Cheeseburger": 10, "Coke": 5, "Water": 4}
 tax = 7/100
 total = 0
+menu_keys = list(menu.keys())
+menu_vals = list(menu.values())
+order_cost = []
+
+prompt = """
+Make an order:
+
+Available meals are: [Nachos], [Pizza], [Cheeseburger], [Coke], [Water]
+Separate orders with a space each :::  """
+
+orders = input(prompt).split()
+for order in orders:
+    if order in menu:
+        order_cost.append(menu[order])
+    else:
+        order_cost.append(menu["Water"])
+
+for i in order_cost:
+    total += int(i)
+
+print("\nYour Orders are: {}".format(", ".join(orders)))
+print("The prices are: {}".format(str(order_cost)))
+print(f"The total for the items is: $ {total} and you have earned 7% discount.")
+print("Your pay now is : $ {:.2f}".format(total - (total * tax)))
+

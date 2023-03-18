@@ -1,0 +1,4 @@
+*.swp                                                                                                                                                                   *.exe
+*.exe
+*.out
+idea/*
