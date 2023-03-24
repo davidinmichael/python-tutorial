@@ -21,6 +21,7 @@ This tutorial covers the following topics:
 - [Modules](05-modules.py)
 - [Loops](06-loops.py)
 - [Lists](07-lists.py)
+- [Tuples](08-tuples.py)
 - Functions
 - Modules
 - And More!
