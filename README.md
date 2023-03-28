@@ -23,6 +23,7 @@ This tutorial covers the following topics:
 - [Lists](07-lists.py)
 - [Tuples](08-tuples.py)
 - [Sets](09-sets.py)
+- [Dictionaries](10-dictionaries.py)
 - Functions
 - Modules
 - And More!
