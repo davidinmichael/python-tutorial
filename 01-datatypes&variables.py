@@ -32,7 +32,7 @@ count = 42
 price = 4.99
 
 # Boolean variable
-is_active = True # Not true, it is case sensitive
+is_active = True # Is true, it is case sensitive
 not_active = False # Not true, it is case sensitive
 
 # List variable
@@ -47,7 +47,8 @@ print(message)
 # You can also update the value of a variable by assigning it a new value. For example, to update the value of the count
 # variable from the previous example, you can do:
 count = 43
-# This will change the value of count from 42 to 43.
+# This will change the value of count from 42 to 43. Python scripts run from top to bottom. 
+# A new value under an old variable will result in the variable acquiring the most recent assigned value.
 
 # Conclusion
 # Variables are a fundamental concept in programming, and understanding how to use them is essential for writing effective code
