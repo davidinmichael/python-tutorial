@@ -1,0 +1,5 @@
+*.swp                                                                                                                                                                   *.exe
+*.exe
+*.out
+.idea/*
+__pycache__
