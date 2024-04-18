@@ -19,6 +19,12 @@ class Dog:
 # In the above example, we define a Dog class with attributes name and age,
 # and a method bark that prints a bark message.
 
+
+# In Python, self is a reference to the current instance of a class. It is used within
+# methods of a class to access and modify attributes and call other methods on the
+# same object. The use of self helps differentiate between class attributes and instance
+# attributes, allowing each instance of a class to maintain its own state.
+
 # Objects
 # An object is an instance of a class. It represents a specific entity based on the
 # blueprint provided by the class. Objects are created using the
